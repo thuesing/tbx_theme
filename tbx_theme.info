@@ -3,8 +3,8 @@
 
   ; Change the name, description and version to whatever you want.
 
-  name        = Footheme
-  description = Your description here.
+  name        = Tbx theme
+  description = Sky subtheme
   
 
 
@@ -20,7 +20,7 @@
   ; Change the "base theme" if you are using a different base,
   ; e.g. "pixture_reloaded" or "sky" (without speechmarks).
 
-  base theme = corolla
+  base theme = sky
 
 
 
@@ -30,7 +30,7 @@
   ; least one more for our custom CSS.
 
   stylesheets[all][] = color/colors.css
-  stylesheets[all][] = css/footheme.css
+  stylesheets[all][] = css/tbx_theme.css
 
   ; Internet Explorer Stylesheets
   ;
